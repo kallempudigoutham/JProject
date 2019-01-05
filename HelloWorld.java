@@ -4,9 +4,10 @@ public class HelloWorld{
 		a = 10;
 		b = 0;
 		while(a>0){
-			System.out.println("hello world");
-			b = b * 1;
-			a = a - 1;
+
+			b = b + 1;
+			a = a - 2;
+
 		}
 		System.out.println("b value is" + b);
 	} 
