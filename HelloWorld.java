@@ -5,7 +5,7 @@ public class HelloWorld{
 		b = 0;
 		while(a>0){
 			b = b + 1;
-			a = a - 1;
+			a = a - 2;
 		}
 		System.out.println("b value is" + b);
 	} 
